@@ -1,0 +1,21 @@
+# Local settings (local paths)
+*.ini
+
+# Game files and extracted content
+*.pak
+*.utoc
+*.ucas
+*_extracted/
+*.uasset
+*.uexp
+*.ubulk
+
+# Output
+rF2_Export/
+*.hdv
+*.tbc
+*.tgm
+
+# Python
+__pycache__/
+*.pyc
